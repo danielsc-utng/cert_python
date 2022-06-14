@@ -1,4 +1,4 @@
-# Laboratorio 3.1.1.10
+# Laboratorio 3.1.1.11
 #Luis Daniel Sánchez Cabrera
 
 income=float(input("Introduce el ingreso anual:"))
