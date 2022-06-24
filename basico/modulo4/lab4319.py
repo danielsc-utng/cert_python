@@ -1,4 +1,4 @@
-# Laboratorio 4.3.1.7
+# Laboratorio 4.3.1.9
 #Luis Daniel Sánchez Cabrera
 
 def is_prime(num):
